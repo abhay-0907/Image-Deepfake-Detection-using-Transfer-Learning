@@ -20,7 +20,9 @@ Multiple pre-trained models were used and compared, including:
 3. pip install -r requirements.txt
 
 # 🧪How to Run
-1. Place your dataset in the appropriate folder structure:
+1. Download the dataset from this link: https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data
+   
+2. Place your dataset in the appropriate folder structure:
     - /dataset/
       - /train/
       - /test/
