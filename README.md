@@ -2,7 +2,6 @@
 
 This project leverages deep learning and transfer learning techniques to classify deepfake images.
 Multiple pre-trained models were used and compared, including:
-
 1. Convolutional Neural Networks (CNN)
 2. ResNet50
 3. EfficientNetB0
