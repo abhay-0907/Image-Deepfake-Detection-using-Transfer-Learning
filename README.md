@@ -29,8 +29,8 @@ pip install -r requirements.txt
       train.csv
       test.csv
       valid.csv
-
-2. Run the training script:
+   
+3. Run the training script:
    model.ipynb
 
    
