@@ -15,7 +15,7 @@ Multiple pre-trained models were used and compared, including:
 4. NumPy / Pandas
 
 # 📦Installation
-1. git clone https://github.com/yourusername/deepfake-detection-tl.git
+1. git clone https://github.com/abhay-0907/deepfake-detection-tl.git
 2. cd Image-Deepfake-Detection-using-Transfer-Learning
 3. pip install -r requirements.txt
 
